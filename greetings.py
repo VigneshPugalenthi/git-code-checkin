@@ -1,1 +1,1 @@
-print(f"Hello, thanks for checking out my repository \U0001f600")
+print(f"This is text from feature branch, please review and merge it")
